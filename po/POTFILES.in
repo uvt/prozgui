@@ -1,0 +1,8 @@
+# List of source files which contain translatable strings.
+src/we.cxx
+src/dl_win.cxx
+src/download_win.cpp
+src/init.cpp
+src/main.cpp
+src/options.cpp
+src/prefs.cpp

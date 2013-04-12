@@ -1,0 +1,109 @@
+.TH PROGUI 1 "March 24, 2011"
+.SH "NAME"
+.LP
+\fBProzgui\fR \- a download accelerator for GNU/Linux FLTK-based
+.SH "SYNTAX"
+.B prozgui <URL>
+.SH "DESCRIPTION"
+\fBProzGUI\fP is a program that makes multiple connections and downloads
+a file in multiple parts simultaneously thus enhancing the download speed
+and downloading the file faster than a download with a single connection. 
+.PP
+It fully supports resume, error detection, handling and recovery.
+.PP
+It is also able to do ftp searches for other possible sites that contain
+the same file, ping them for connection speeds and automatically download
+from the fastest site, or ask the user to choose one.
+.PP
+FTP passwords can be specified with the URL, or can be
+obtained automatically from
+.B "~/.netrc"
+if it exists.
+.SH "OPTIONS"
+Options are configured in the "Preferences" dialog screen.
+.SH "EXAMPLES"
+.TP
+.B prozgui http://ftp.gnu.org/pub/README
+Prozgui will connect to that server and download the file using the default
+settings
+.SH "FILES"
+.TP
+.B "~/.prozgui/prozguiconfig"
+The user's configfile (Not to be edited by hand, and overwritten at runtime)
+.TP
+.B "~/.netrc"
+A file which can be used to provide prozgui with hosts, accounts and
+passwords
+.SH "BUGS"
+Please report bugs to <raviyanto@gmail.com>
+.SH "AUTHOR"
+Kalum Somaratna <kalum@genesys.ro>
+.PP
+.B "Several contributions come from:"
+.br
+Richard Dawe <richdawe@bigfoot.com>
+.br
+Raviyanto Ahmad <raviyanto@gmail.com>
+.br
+Lourens Veen <jsr@dds.nl>
+.br
+Flower <floweros@golia.ro>
+.br
+Biscuit <biscut@biscut.screaming.net>
+.br
+Hrvoje Niksic <hniksic@srce.hr>
+.br
+Silviu Marin-Caea <silviu@genesys.ro>
+.br
+Ralph Slooten <axllent@axllent.cjb.net>
+.br
+Tse Chi Ming <minix@hongkong.com>
+.br
+Gustavo Noronha Silva <dockov@zaz.com.br>
+.br
+Calum Selkirk <cselkirk@sophix.uklinux.net>
+.br
+Seth Cohn <scohn@oregonmed.net>
+.br
+Davy Durham <david.durham@wcom.com>
+.br
+Uwe Hermann <uh1763@hermann-uwe.de>
+.br
+Drew <drew@no6.com>
+.br
+Andy Jeffries <andy@scramdisk.eu.org>
+.br
+Guillermo Pereyra Irujo <gpirujo@pop3free.com>
+.br
+Michael Duelli <m.duelli@web.de>
+.br
+Steven Hatfield <ashari@knightswood.net>
+.br
+Ralph Slooten <ralph.slooten@quicknet.nl>
+.br
+Calin Damian <calin@work.ro>
+.br
+David L. Matthews <dlm@wam.umd.edu>
+.br
+Pablo Iranzo Gómez <Pablo.Iranzo@alufis35.ffisic.uv.es>
+.br
+Ruben Boer <ruben@dirty-pages.nl>
+.br
+Krogg <krogg.no.to.spam@gtcom.net>
+.br
+Emanuele Tatti <emanu_mary@inwind.it>
+.br
+.PP
+.B "Manpage:"
+.br
+Ralph Slooten <axllent@axllent.cjb.net>
+.br
+Flower <floweros@golia.ro>
+.br
+Gustavo Noronha Silva <kov@debian.org>
+.br
+Uwe Hermann <uh1763@hermann-uwe.de>
+.br
+Raviyanto Ahmad <raviyanto@gmail.com>
+.SH "SEE ALSO"
+\fIHomepage:\fR   http://code.google.com/p/project-linux-software/

@@ -1,0 +1,19 @@
+Source: prozgui
+Section: net
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Raviyanto Ahmad <raviyanto@gmail.com>
+Build-Depends: debhelper (>= 7.0.50~), autotools-dev, libc6 (>= 2.4), libfltk1.1-dev, libfltk1.1 (>= 1.1.6), libgcc1 (>= 1:4.1.1), libstdc++6-4.4-dev, libstdc++6 (>= 4.1.1), libxpm-dev, libxpm4
+Standards-Version: 3.9.1
+Homepage: http://code.google.com/p/project-linux-software
+
+Package: prozgui
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: FLTK-based GUI front end for prozilla
+ The Prozgui is a graphical front end based on the Fast and Light
+ Toolkit for prozilla. Prozilla is a download accelerator that
+ opens multiple connections to get the file faster.
+ .
+ Prozgui's features include proxy, redirection and ftpsearch
+ support.

@@ -1,0 +1,470 @@
+# English translations for prozgui package.
+# This file is put in the public domain.
+# GPL version 3.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: raviyanto@gmail.com\n"
+"POT-Creation-Date: 2011-03-30 16:04+0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Raviyanto Ahmad <raviyanto@gmail.com>\n"
+"Language-Team: English <raviyanto@ymail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/we.cxx:579
+msgid "Prozgui Preferences Panel"
+msgstr "Prozgui Preferences Panel"
+
+#: src/we.cxx:598
+msgid "General"
+msgstr "General"
+
+#: src/we.cxx:617
+msgid "Number of Threads:"
+msgstr "Number of Threads:"
+
+#: src/we.cxx:626
+msgid "Use PASV for FTP transfers (recommended)"
+msgstr "Use PASV for FTP transfers (recommended)"
+
+#: src/we.cxx:631
+msgid "Ask the HTTP proxies not to cache requests between sessions (default is off)"
+msgstr "Ask the HTTP proxies not to cache requests between sessions (default is off)"
+
+#: src/we.cxx:647
+msgid "Retry Delay (Sec):"
+msgstr "Retry Delay (Sec):"
+
+#: src/we.cxx:651
+msgid "Timeout Period (Sec):"
+msgstr "Timeout Period (Sec):"
+
+#: src/we.cxx:655
+msgid "Directory to download the files:"
+msgstr "Directory to download the files:"
+
+#: src/we.cxx:659
+msgid "Limit bandwith usage PER download to (Kbps) (0 = unlimited):"
+msgstr "Limit bandwith usage PER download to (Kbps) (0 = unlimited):"
+
+#: src/we.cxx:667
+msgid "Proxies"
+msgstr "Proxies"
+
+#: src/we.cxx:675
+#: src/we.cxx:702
+msgid "Hostname:"
+msgstr "Hostname:"
+
+#: src/we.cxx:680
+#: src/we.cxx:707
+msgid "Port:"
+msgstr "Port:"
+
+#: src/we.cxx:686
+msgid "HTTP Proxy:"
+msgstr "HTTP Proxy:"
+
+#: src/we.cxx:691
+#: src/we.cxx:713
+msgid "Username:"
+msgstr "Username:"
+
+#: src/we.cxx:696
+#: src/we.cxx:718
+msgid "Password:"
+msgstr "Password:"
+
+#: src/we.cxx:724
+msgid "FTP Proxy:"
+msgstr "FTP Proxy:"
+
+#: src/we.cxx:729
+msgid "FTP Proxy Type:"
+msgstr "FTP Proxy Type:"
+
+#: src/we.cxx:736
+msgid "Use HTTP Proxy"
+msgstr "Use HTTP Proxy"
+
+#: src/we.cxx:741
+msgid "Use FTP Proxy"
+msgstr "Use FTP Proxy"
+
+#: src/we.cxx:749
+msgid "Direct Connection to the Internet"
+msgstr "Direct Connection to the Internet"
+
+#: src/we.cxx:756
+msgid "Use proxies"
+msgstr "Use proxies"
+
+#: src/we.cxx:769
+msgid "FTP Search"
+msgstr "FTP Search"
+
+#: src/we.cxx:775
+msgid "Number of mirrors to request:"
+msgstr "Number of mirrors to request:"
+
+#: src/we.cxx:788
+msgid "Ping Timeout (Sec):"
+msgstr "Ping Timeout (Sec):"
+
+#: src/we.cxx:797
+msgid "Number of mirrors to ping at once:"
+msgstr "Number of mirrors to ping at once:"
+
+#: src/we.cxx:810
+msgid "Do FTP Search automatically"
+msgstr "Do FTP Search automatically"
+
+#: src/we.cxx:815
+msgid "FTP Search Server to use:"
+msgstr "FTP Search Server to use:"
+
+#: src/we.cxx:832
+#: src/we.cxx:2972
+#: src/we.cxx:3511
+#: src/dl_win.cxx:660
+msgid "Ok"
+msgstr "Ok"
+
+#: src/we.cxx:836
+#: src/we.cxx:3527
+#: src/dl_win.cxx:609
+msgid "Cancel"
+msgstr "Cancel"
+
+#: src/we.cxx:2960
+msgid "Prozgui Download Accelerator 2.0.7"
+msgstr "Prozgui Download Accelerator 2.0.7"
+
+#: src/we.cxx:2966
+msgid "GUI Version 2.0.7"
+msgstr "GUI Version 2.0.7"
+
+#: src/we.cxx:2969
+msgid "libprozgui version 1.2.2"
+msgstr "libprozgui version 1.2.2"
+
+#: src/we.cxx:2984
+msgid "Credits"
+msgstr "Credits"
+
+#: src/we.cxx:2993
+msgid "Kalum Somaratna"
+msgstr "Kalum Somaratna "
+
+#: src/we.cxx:2997
+msgid "Uwe Hermann"
+msgstr "Uwe Hermann"
+
+#: src/we.cxx:3000
+msgid "Gustavo Noronha Silva"
+msgstr "Gustavo Noronha Silva"
+
+#: src/we.cxx:3004
+msgid "Ralph Slooten"
+msgstr "Ralph Slooten"
+
+#: src/we.cxx:3008
+msgid "Raviyanto"
+msgstr "Raviyanto"
+
+#: src/we.cxx:3012
+msgid "Silviu Marin-Caea"
+msgstr "Silviu Marin-Caea"
+
+#: src/we.cxx:3016
+msgid "Pablo Iranzo Gomez"
+msgstr "Pablo Iranzo Gomez "
+
+#: src/we.cxx:3020
+msgid "Krogg"
+msgstr "Krogg"
+
+#: src/we.cxx:3024
+msgid "David L. Matthews"
+msgstr "David L. Matthews "
+
+#: src/we.cxx:3032
+msgid "Translations"
+msgstr "Translations"
+
+#: src/we.cxx:3040
+msgid "Ruben Boer - Dutch"
+msgstr "Ruben Boer - Dutch "
+
+#: src/we.cxx:3044
+msgid "Ralph Slooten - Dutch"
+msgstr "Ralph Slooten - Dutch "
+
+#: src/we.cxx:3048
+msgid "Flower - Romanian"
+msgstr "Flower - Romanian "
+
+#: src/we.cxx:3052
+msgid "Gustavo Noronha Silva - Portuguese"
+msgstr "Gustavo Noronha Silva - Portuguese"
+
+#: src/we.cxx:3056
+msgid "Emanuele Tatti - Italian"
+msgstr "Emanuele Tatti - Italian"
+
+#: src/we.cxx:3060
+msgid "Alberto Zanoni - Italian"
+msgstr "Alberto Zanoni - Italian"
+
+#: src/we.cxx:3064
+msgid "Eric Lassauge - French"
+msgstr "Eric Lassauge - French "
+
+#: src/we.cxx:3495
+msgid "Please enter the  URL"
+msgstr "Please enter the  URL"
+
+#: src/we.cxx:3520
+msgid "Enter URL (CTRL+V to paste from clipboard)"
+msgstr "Enter URL (CTRL+V to paste from clipboard)"
+
+#: src/we.cxx:3531
+msgid "FTP Search for mirrors (Experimental)"
+msgstr "FTP Search for mirrors (Experimental)"
+
+#: src/dl_win.cxx:509
+msgid "Stop"
+msgstr "Stop"
+
+#: src/dl_win.cxx:514
+#: src/download_win.cpp:409
+msgid "Pause"
+msgstr "Pause"
+
+#: src/dl_win.cxx:520
+msgid "Abort"
+msgstr "Abort"
+
+#: src/dl_win.cxx:526
+msgid "URL:"
+msgstr "URL:"
+
+#: src/dl_win.cxx:593
+msgid "Creating file"
+msgstr "Creating file"
+
+#: src/dl_win.cxx:644
+#: src/dl_win.cxx:689
+#: src/dl_win.cxx:739
+msgid "Attention!"
+msgstr "Attention!"
+
+#: src/dl_win.cxx:705
+#: src/dl_win.cxx:756
+msgid "Yes"
+msgstr "Yes"
+
+#: src/dl_win.cxx:709
+#: src/dl_win.cxx:760
+msgid "No"
+msgstr "No"
+
+#: src/download_win.cpp:51
+msgid "Are you Sure You want to quit?"
+msgstr "Are you Sure You want to quit?"
+
+#: src/download_win.cpp:194
+msgid "Creating the thread that gets info about file"
+msgstr "Creating the thread that gets info about file"
+
+#: src/download_win.cpp:218
+msgid "I am unable to delete the target file!"
+msgstr "I am unable to delete the target file!"
+
+#: src/download_win.cpp:251
+msgid "A error occured while processing the logfile! Assuming default number of connections"
+msgstr "A error occured while processing the logfile! Assuming default number of connections"
+
+#: src/download_win.cpp:260
+msgid "The previous download used a different number of connections than the default! so I will use the previous number of threads"
+msgstr "The previous download used a different number of connections than the default! so I will use the previous number of threads"
+
+#: src/download_win.cpp:280
+msgid "A error occured while processing the logfile! Assuming default number of connections to delete"
+msgstr "A error occured while processing the logfile! Assuming default number of connections to delete"
+
+#: src/download_win.cpp:304
+#, c-format
+msgid "The target file %s exists, would you like to overwrite it?"
+msgstr "The target file %s exists, would you like to overwrite it?"
+
+#: src/download_win.cpp:332
+#, c-format
+msgid "Previous download of %s exists, would you like to resume it or overwrite it?"
+msgstr "Previous download of %s exists, would you like to resume it or overwrite it?"
+
+#: src/download_win.cpp:336
+msgid "Resume"
+msgstr "Resume"
+
+#: src/download_win.cpp:337
+msgid "Overwrite"
+msgstr "Overwrite"
+
+#: src/download_win.cpp:367
+msgid "Not enough storage space or storage media fails to create file"
+msgstr "Not enough storage space or storage media fails to create file"
+
+#: src/download_win.cpp:389
+#, c-format
+msgid "RESUME supported"
+msgstr "RESUME supported"
+
+#: src/download_win.cpp:397
+#, c-format
+msgid "RESUME NOT supported"
+msgstr "RESUME NOT supported"
+
+#: src/download_win.cpp:463
+msgid "Run"
+msgstr "Run"
+
+#: src/download_win.cpp:494
+#: src/download_win.cpp:680
+msgid "Waiting till all threads terminate"
+msgstr "Waiting till all threads terminate"
+
+#: src/download_win.cpp:496
+msgid "Thread ended"
+msgstr "Thread ended"
+
+#: src/download_win.cpp:504
+msgid "Got info succesfully"
+msgstr "Got info succesfully"
+
+#: src/download_win.cpp:507
+#, c-format
+msgid "File Size: %lld Kb"
+msgstr "File Size: %lld Kb"
+
+#: src/download_win.cpp:511
+#, c-format
+msgid "File Size is UNKOWN"
+msgstr "File Size is UNKOWN"
+
+#: src/download_win.cpp:543
+#, c-format
+msgid "The URL %s doesnt exist!"
+msgstr "The URL %s doesnt exist!"
+
+#: src/download_win.cpp:574
+msgid "No suitable mirrors were found, downloading from original server"
+msgstr "No suitable mirrors were found, downloading from original server"
+
+#: src/download_win.cpp:639
+#, c-format
+msgid "Total Bytes Received: %Ld Kb"
+msgstr "Total Bytes Received: %Ld Kb"
+
+#: src/download_win.cpp:644
+#, c-format
+msgid "Average Speed: %.3f Kb/sec"
+msgstr "Average Speed: %.3f Kb/sec"
+
+#: src/download_win.cpp:653
+#, c-format
+msgid "Download Time: %d seconds"
+msgstr "Download Time: %d seconds"
+
+#: src/download_win.cpp:655
+#, c-format
+msgid "Download Time: %d minutes %d seconds"
+msgstr "Download Time: %d minutes %d seconds"
+
+#: src/download_win.cpp:658
+#, c-format
+msgid "Download Time: %d hours %d minutes"
+msgstr "Download Time: %d hours %d minutes"
+
+#: src/download_win.cpp:685
+msgid "Got download succesfully, now building file"
+msgstr "Got download succesfully, now building file"
+
+#: src/download_win.cpp:692
+#, c-format
+msgid "Building file %s"
+msgstr "Building file %s"
+
+#: src/download_win.cpp:714
+msgid "Error the server/proxy lied about resuming so I have to restart this from the beginning!"
+msgstr "Error the server/proxy lied about resuming so I have to restart this from the beginning!"
+
+#: src/download_win.cpp:734
+#, c-format
+msgid "One connection of the download %s encountered a unrecoverable local error, usually lack of free space, or a write to bad medium, or a problem with permissions,so please fix this and retry"
+msgstr "One connection of the download %s encountered a unrecoverable local error, usually lack of free space, or a write to bad medium, or a problem with permissions,so please fix this and retry"
+
+#: src/download_win.cpp:751
+#, c-format
+msgid "A connection(s) of the download %s encountered a unrecoverable remote error, usually the file not being present in the remote server, therefore the download had to be aborted!"
+msgstr "A connection(s) of the download %s encountered a unrecoverable remote error, usually the file not being present in the remote server, therefore the download had to be aborted!"
+
+#: src/download_win.cpp:798
+#: src/download_win.cpp:826
+msgid "Close"
+msgstr "Close"
+
+#: src/download_win.cpp:825
+msgid "All Done"
+msgstr "All Done"
+
+#: src/main.cpp:229
+#: src/main.cpp:342
+#: src/main.cpp:3034
+#, c-format
+msgid "%s does not seem to be a valid URL"
+msgstr "%s does not seem to be a valid URL"
+
+#: src/main.cpp:239
+#, c-format
+msgid "%s already exists in the download list"
+msgstr "%s already exists in the download list"
+
+#: src/main.cpp:253
+#, c-format
+msgid "%s already running!"
+msgstr "%s already running!"
+
+#: src/main.cpp:262
+#: src/main.cpp:349
+#, c-format
+msgid "%s contains just a hostname, it does not contain a file to download!"
+msgstr "%s contains just a hostname, it does not contain a file to download!"
+
+#: src/main.cpp:886
+#, c-format
+msgid "Error: Invalid  option\n"
+msgstr "Error: Invalid  option\n"
+
+#: src/main.cpp:891
+msgid "Prozgui - Download Accelerator"
+msgstr "Prozgui - Download Accelerator"
+
+#: src/options.cpp:133
+#, c-format
+msgid "%s does not seem to be a valid directory"
+msgstr "%s does not seem to be a valid directory"
+
+#: src/options.cpp:156
+#, c-format
+msgid "%s does not seem to be a valid HTTP proxy value"
+msgstr "%s does not seem to be a valid HTTP proxy value"
+
+#: src/options.cpp:184
+#, c-format
+msgid "%s does not seem to be a valid FTP proxy value"
+msgstr "%s does not seem to be a valid FTP proxy value"
+

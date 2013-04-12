@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Exec=prozgui
+Icon=prozgui
+Name=Prozgui Downloader
+Name[en]=Prozgui Faster
+Name[id]=Prozgui Supercepat
+Comment=Download files from the Internet
+Comment[id]=Pengunduh supercepat
+Comment[en]=Faster downloader
+Categories=Network;FileTransfer;
+X-Ubuntu-Gettext-Domain=prozgui
+
