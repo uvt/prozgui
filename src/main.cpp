@@ -26,7 +26,7 @@
 #include <malloc.h>
 #include <string.h>
 #include <stdlib.h>
-#include <FL/Fl.H>
+#include <Fl.h>
 #include <FL/Fl_Window.H>
 #include <FL/Fl_Box.H>
 #include <FL/Fl_Group.H>	// Fl_Group header file
